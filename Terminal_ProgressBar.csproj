@@ -50,6 +50,10 @@
     <Compile Include="examples\simple.cs" />
     <Compile Include="lib\ProgressBar.cs" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="doc\progress.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
   <ProjectExtensions>
     <VisualStudio AllowExistingFolder="true" />
