@@ -46,6 +46,7 @@
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="examples\complete.cs" />
     <Compile Include="examples\simple.cs" />
     <Compile Include="lib\ProgressBar.cs" />
   </ItemGroup>
